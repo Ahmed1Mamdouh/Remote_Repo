@@ -5,9 +5,8 @@ int main()
 {
 	
 	printf("Amit Course");
-	printf("Amit ");
-
-	
+	printf("Amit Embedded");
+	printf("helloworld");
 	
 	return 0 ;
 }
